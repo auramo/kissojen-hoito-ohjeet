@@ -9,23 +9,8 @@ Kissojen vessat on rappusten yläpäässä kaapissa:
 
 <img src="IMG_1758.jpeg" alt="Kaappivessa" style="width: 600px;"/>
 
-Kapealla ylähyllyllä on lapiot. Paskat sekä paakut laitetaan
-oikealla olevan kirjahyllyn oven takana olevaan torniin:
-
-<img src="IMG_6058.JPG" alt="Torni kaapissa" style="width: 600px;"/>
-
-Torniin laitetaan yläpäästä rojut:
-
-<img src="IMG_6059.JPG" alt="Torni kaapissa" style="width: 600px;"/>
-
-Ja sitten ne "vedetään alas" vetämällä keskellä olevasta kahvasta:
-
-<img src="IMG_6060.JPG" alt="Torni kaapissa" style="width: 600px;"/>
-
-Torni tulee varmaan täyteen ja siinä on se pussi siellä sisällä
-loppu. Siksi ylähyllyllä on myös tavallisia
-roskapusseja joihin voi laittaa kakat ja paakut kun torni on
-täyttynyt. Pussit voi laittaa vessan roskikseen.
+Kapealla ylähyllyllä on lapiot ja roskapussit. Pusseihin laitetaan
+kakat ja paakut ja sitten pussit voi laittaa vessan roskikseen.
 
 ## Ruokkiminen
 
@@ -34,10 +19,13 @@ puun ylemmässä kolossa:
 
 <img src="IMG_3013.jpeg" alt="Torni kaapissa" style="width: 600px;"/>
 
-Ja märkäruoan voi laittaa automaatin viereisen laatikon sisällä
+Märkäruoan voi laittaa automaatin viereisen laatikon sisällä
 oleviin astioihin:
 
 <img src="IMG_6061.JPG" alt="Torni kaapissa" style="width: 600px;"/>
+
+Märkäruokaa ei kannata laittaa enempää kuin yksi purkki puoliksi
+molemmille.
 
 Vesikipot kannattaa myös täyttää. Yläkerran vessassa on myös
 vesiastia.
