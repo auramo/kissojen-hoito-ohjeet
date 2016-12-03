@@ -22,6 +22,11 @@ Ja sitten ne "vedetään alas" vetämällä keskellä olevasta kahvasta:
 
 <img src="IMG_6060.JPG" alt="Torni kaapissa" style="width: 600px;"/>
 
+Torni tulee varmaan täyteen ja siinä on se pussi siellä sisällä
+loppu. Siksi ylähyllyllä on myös tavallisia
+roskapusseja joihin voi laittaa kakat ja paakut kun torni on
+täyttynyt. Pussit voi laittaa vessan roskikseen.
+
 ## Ruokkiminen
 
 Pääosa ruoasta pitäisi tulla automaatista. Märkäruokaa on kissojen
